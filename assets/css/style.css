@@ -1,0 +1,49 @@
+
+/* variables de color */
+
+
+
+
+/* Tipografia */
+
+.roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+.roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.logo{
+    height: 2.5rem;
+    margin-left: 3rem;
+}
+
+/* ESTILOS */
+
+.color-gris{
+  color:#707070;
+  text-decoration: none;
+}
+
+.precio{
+  color:#707070;
+    font-size: 20px;
+    text-decoration: none;
+}
+.oferta{
+    color:#28A745;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+
+/* FOOTER */
+
+footer img{
+  height: 2rem;
+}
